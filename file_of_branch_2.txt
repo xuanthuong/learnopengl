@@ -1,0 +1,4 @@
+This is the file that I am working
+on branch 2
+master, branch 1, branch 3 will not see it
+unless i push to them or merge to master
